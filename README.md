@@ -1,12 +1,12 @@
 # Moja Podróż w Cyberbezpieczeństwie
 
-**Imię:** Kevin, 17 lat  
+**Imię:** Anonymous
 **Pasja:** Etyczne hakowanie / Pentesting  
 
 ---
 
 ## 🎯 O Mnie
-Jestem zmotywowanym, 17-letnim samoukiem specjalizującym się w cyberbezpieczeństwie i testach penetracyjnych. W ciągu ostatnich miesięcy zdobyłem praktyczne doświadczenie z Kali Linux, labami na Hack The Box oraz różnymi narzędziami do rozpoznania i eksploatacji. Szybko się uczę, chcę pogłębiać umiejętności i jestem gotów dołączyć nawet na bezpłatne praktyki.
+samoukiem specjalizującym się w cyberbezpieczeństwie i testach penetracyjnych. W ciągu ostatnich miesięcy zdobyłem praktyczne doświadczenie z Kali Linux, labami na Hack The Box oraz różnymi narzędziami do rozpoznania i eksploatacji. Szybko się uczę, chcę pogłębiać umiejętności i jestem gotów dołączyć nawet na bezpłatne praktyki.
 
 ---
 
